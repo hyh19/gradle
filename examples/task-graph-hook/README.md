@@ -1,3 +1,4 @@
+```
 省略...
 // 注册的生命周期钩子在 task 图生成后被调用
 gradle.taskGraph.whenReady { TaskExecutionGraph taskGraph ->
